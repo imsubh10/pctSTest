@@ -1,2 +1,0 @@
-# pctSTest
-LearnSelenium
